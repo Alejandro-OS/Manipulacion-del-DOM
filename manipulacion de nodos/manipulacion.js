@@ -52,8 +52,8 @@ document.getElementsByClassName('form-control')
         //la ClassName tampoco es un atributo unico
 
 //en la evolicion de las API's se empezaron a usar selectores mas convenientes como 
-parentElement.querySelector(): //devuelve el primer elemento que encuentra
-parentElement.querySelectorAll(): //devuelve una lista de elementos
+parentElement.querySelector() //devuelve el primer elemento que encuentra
+parentElement.querySelectorAll() //devuelve una lista de elementos
 /*estos selectores permiten modificar cualquier elemento del DOM
 para estos selectores se utilizan los marcadores de CSS
 # para ID's
