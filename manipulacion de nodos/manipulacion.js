@@ -111,9 +111,9 @@ noso.innerHTML = nuevoHTML
 
 /* ELIMINAR NODOS */
 
-const nodoAElimminar = documen.getElementBy...
+//const nodoAElimminar = document.getElementsBy...
 const padre = nodoAElimminar.parentElement // parentElement toma directamente el nodo padre
-padre.removeChils(nodoAElimminar) //se elimina el nodo
+padre.removeChild(nodoAElimminar) //se elimina el nodo
 
 const nodoEliminar = document.querySelector('h2')
 nodoEliminar.remove() //se elimina na referencia (nodoEliminar)

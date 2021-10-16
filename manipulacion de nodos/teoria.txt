@@ -23,7 +23,8 @@ RESUMEN: Para mostrar un sitio hay un proceso llamado Critical Render Path en é
 
  ¿Qué rayos son las API?
 
-Puede parecernos un concepto muy abstracto o confuso al principio, ya que como dice el profesor ‘’lo utilizamos sin discreción para referirnos a todo’’. Pero, en pocas palabras, una API es todo lo que sirva para comunicar fácilmente un pedazo de software con otro.
+Puede parecernos un concepto muy abstracto o confuso al principio, ya que como dice el profesor ‘’lo utilizamos sin discreción para referirnos a todo’’. Pero, en pocas palabras,
+una API es todo lo que sirva para comunicar fácilmente un pedazo de software con otro.
 
 APIs de terceros
 Twitter, por ejemplo, nos proporciona una manera sencilla de mostrar tweets de algún usuario a través de su API. Tan solo tenemos que hacer una petición GET al siguiente Endpoint:
